@@ -30,5 +30,7 @@
   <a href="https://www.linkedin.com/in/nayara-ferraz-27a938180" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
     ![Snake animation](https://github.com/ferraznay/ferraznay/blob/output/github-contribution-grid-snake.svg)
+    
+    
   </div>
   
