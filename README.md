@@ -33,4 +33,4 @@
     
   </div>
    
-  
+  ![Snake animation](https://github.com/ferraznay/ferraznay/blob/output/github-contribution-grid-snake.svg)
